@@ -1,0 +1,11 @@
+#
+# robots.txt for TUTUCMS x2.6
+#
+
+User-agent: *
+Disallow: /admin/
+Disallow: /core/
+Disallow: /controller/
+Disallow: /model/
+Disallow: /data/
+Disallow: /template/
